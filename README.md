@@ -1,6 +1,6 @@
 # Store
  Store project
-![store1](https://user-images.githubusercontent.com/101679144/174332153-57e707c5-cdc9-4324-98c6-6aad7c2f582e.png)
+![store2](https://user-images.githubusercontent.com/101679144/174462752-dd15eb83-d21b-4b7e-9cb1-7ef3986ef7c8.png)
  > In progress
  ## Studies
  - Bootstrap icons
